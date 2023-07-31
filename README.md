@@ -3,7 +3,7 @@
 ![Accuracy](https://github.com/Opee10/Classification-Based-Machine-Learning-Model/assets/106880043/08dd35b1-3026-414b-bd53-5f5a4e44d120)
 <h4><h2><b>Project Overview:</b></h2> In this project, I developed a classification-based machine learning model using Python. I worked with a real dataset containing at least 2000 instances and performed data preprocessing to ensure the dataset's suitability for modeling. Additionally, I conducted exploratory data analysis to identify any patterns or trends in the data. I used several classification models, including naive Bayes, KNN, decision tree, logistic regression, and support vector machines, to classify the data based on specific features. The models were then compared based on their predictive accuracy to determine the best model for the dataset. The project is summarized in a report, including details of the dataset, data preprocessing, EDA, and model development, with relevant screenshots and plots.</h4>
 
-<h4><h2><b><u>Dataset overview</u></b></h2><br>
+<h4><h2><b><u>Dataset overview</u></b></h2>
 <h3>Data Source with Valid URL: </h3><br>
 https://data.nashville.gov/General-Government/General-Government-Employees-Titles-and-Base-Annua/2hu7-5kjq<br>
 <h3>Description About Dataset :</h3>
