@@ -2,17 +2,17 @@
 
 ![Accuracy](https://github.com/Opee10/Classification-Based-Machine-Learning-Model/assets/106880043/08dd35b1-3026-414b-bd53-5f5a4e44d120)
 
-<h4> Dataset overview
-Data Source with Valid URL
-https://data.nashville.gov/General-Government/General-Government-Employees-Titles-and-Base-Annua/2hu7-5kjq
-Description About Dataset
-This dataset contains 2543 total rows and 5 columns of information about Metro Nashville's general government employees, including their name, job title, department, employment status, and base annual salary. The dataset includes various job titles, ranging from police officers and sergeants to maintenance leaders, program specialists, and family development workers.
+<h4><h3>Dataset overview</h3><br>
+<h3>Data Source with Valid URL: </h3><br>
+https://data.nashville.gov/General-Government/General-Government-Employees-Titles-and-Base-Annua/2hu7-5kjq<br>
+<h3>Description About Dataset :</h3>
+This dataset contains 2543 total rows and 5 columns of information about Metro Nashville's general government employees, including their name, job title, department, employment status, and base annual salary. The dataset includes various job titles, ranging from police officers and sergeants to maintenance leaders, program specialists, and family development workers.<br>
 
-•	Name : The name column lists the employees' full names. 
-•	Titles : Title column provides their job titles, indicating the specific role they fulfill within their department. 
-•	Department : The department column identifies the department that the employee belongs to, such as police, parks, public library, or juvenile court.
-•	Employment Status : The employment status column indicates whether the employee is full-time, part-time, or temporary. 
-•	Annual Salaries : The annual salary column lists the base annual salary of each employee, providing an idea of their compensation for their job.
+•	Name : The name column lists the employees' full names.<br> 
+•	Titles : Title column provides their job titles, indicating the specific role they fulfill within their department.<br>
+•	Department : The department column identifies the department that the employee belongs to, such as police, parks, public library, or juvenile court.<br>
+•	Employment Status : The employment status column indicates whether the employee is full-time, part-time, or temporary.<br>
+•	Annual Salaries : The annual salary column lists the base annual salary of each employee, providing an idea of their compensation for their job.<br>
 
 Overall, this dataset provides valuable information about the employees of Metro Nashville's general government and their respective job titles and salaries. It could be useful for conducting analyses on government salaries, workforce diversity, and other related topics.
 </h4>
