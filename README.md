@@ -1,8 +1,9 @@
 # PYTHON-Final-project-
 
 ![Accuracy](https://github.com/Opee10/Classification-Based-Machine-Learning-Model/assets/106880043/08dd35b1-3026-414b-bd53-5f5a4e44d120)
+<h4><h2><b>Project Overview:</b></h2> In this project, I developed a classification-based machine learning model using Python. I worked with a real dataset containing at least 2000 instances and performed data preprocessing to ensure the dataset's suitability for modeling. Additionally, I conducted exploratory data analysis to identify any patterns or trends in the data. I used several classification models, including naive Bayes, KNN, decision tree, logistic regression, and support vector machines, to classify the data based on specific features. The models were then compared based on their predictive accuracy to determine the best model for the dataset. The project is summarized in a report, including details of the dataset, data preprocessing, EDA, and model development, with relevant screenshots and plots.</h4>
 
-<h4><h3>Dataset overview</h3><br>
+<h4><h2><b><u>Dataset overview</u></b></h2><br>
 <h3>Data Source with Valid URL: </h3><br>
 https://data.nashville.gov/General-Government/General-Government-Employees-Titles-and-Base-Annua/2hu7-5kjq<br>
 <h3>Description About Dataset :</h3>
@@ -16,6 +17,3 @@ This dataset contains 2543 total rows and 5 columns of information about Metro N
 
 Overall, this dataset provides valuable information about the employees of Metro Nashville's general government and their respective job titles and salaries. It could be useful for conducting analyses on government salaries, workforce diversity, and other related topics.
 </h4>
-<h4>The accuracy graph above illustrates the performance of each classification model on the dataset. It shows how well each model classified the employees based on specific features. The y-axis represents the accuracy scores, while the x-axis displays the different models we tested. The graph provides a clear comparison of the models, helping us determine the best one for this particular dataset.
-
-Conclusively, we selected the most accurate model and used it to classify the employees effectively based on their job titles, departments, and employment status. The results and insights from this project can be valuable for understanding workforce diversity, government salary analysis, and related topics</h4>
