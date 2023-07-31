@@ -15,5 +15,5 @@ This dataset contains 2543 total rows and 5 columns of information about Metro N
 •	Employment Status : The employment status column indicates whether the employee is full-time, part-time, or temporary.<br>
 •	Annual Salaries : The annual salary column lists the base annual salary of each employee, providing an idea of their compensation for their job.<br>
 
-Overall, this dataset provides valuable information about the employees of Metro Nashville's general government and their respective job titles and salaries. It could be useful for conducting analyses on government salaries, workforce diversity, and other related topics.
+Overall, This dataset provides valuable information about the employees of Metro Nashville's general government and their respective job titles and salaries. It could be useful for conducting analyses on government salaries, workforce diversity, and other related topics.
 </h4>
